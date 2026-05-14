@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently, I am working on Vue3 development.
 - 🌱 Currently, I am learning SpringAi Alibaba.
-- 👯 I hope to collaborate on developing the AiServer project.
+- 👯 I hope to collaborate on developing the AiTools project.
 - 📫 Contact: QQ: 3251099516
 
 <!-- snake -->
